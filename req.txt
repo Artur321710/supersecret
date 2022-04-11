@@ -1,0 +1,5 @@
+requests
+pytelegrambotapi
+loguru
+simpleqiwi
+bs4
