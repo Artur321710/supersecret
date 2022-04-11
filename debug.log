@@ -1,0 +1,10 @@
+2022-04-11 11:40:53.221 | INFO     | __main__:<module>:55 - Start up system...
+2022-04-11 11:43:08.169 | INFO     | __main__:<module>:55 - Start up system...
+2022-04-11 11:43:08.431 | CRITICAL | __main__:<module>:572 - Киви не подключен! Ошибка: [Errno Expecting value] : 0
+2022-04-11 11:43:08.434 | SUCCESS  | __main__:<module>:573 - Bot was successfully started, startup time : 2022-04-11 11:43:08
+2022-04-11 11:44:18.374 | INFO     | __main__:<module>:55 - Start up system...
+2022-04-11 11:44:18.695 | CRITICAL | __main__:<module>:572 - Киви не подключен! Ошибка: [Errno Expecting value] : 0
+2022-04-11 11:44:19.155 | SUCCESS  | __main__:<module>:573 - Bot was successfully started by @Xeroxxxx_bot, startup time : 2022-04-11 11:44:18
+2022-04-11 11:44:35.235 | INFO     | __main__:start_command_handler:63 - User 1301413310 - /start
+2022-04-11 11:44:36.764 | INFO     | __main__:callback_inline:127 - User 1301413310 - callbackdata=pass
+2022-04-11 11:44:37.162 | INFO     | __main__:start_command_handler:63 - User 1301413310 - /start
