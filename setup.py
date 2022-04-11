@@ -570,5 +570,5 @@ if __name__ == '__main__':
         logger.success(f'Киви успешно подключен! Баланс киви = {QApi(tokenusr, phoneusr).balance[0]}RUB')
     except Exception as Error:
         logger.critical(f'Киви не подключен! Ошибка: {Error}')
-    logger.success(f'Bot was successfully started, startup time : {start_time.strftime("%Y-%m-%d %H:%M:%S")}')
+    logger.success(f'Bot was successfully started by @{bot.get_me().username}, startup time : {start_time.strftime("%Y-%m-%d %H:%M:%S")}')
     bot.infinity_polling()
